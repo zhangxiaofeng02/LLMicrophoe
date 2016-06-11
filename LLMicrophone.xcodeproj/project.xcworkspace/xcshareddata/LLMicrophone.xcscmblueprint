@@ -1,0 +1,24 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "c4ccc3fd-b13d-49bf-a705-f618d8f4424a++668" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "c4ccc3fd-b13d-49bf-a705-f618d8f4424a++668" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "4F905A76-C920-498B-B3FE-63D8FC004F89",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "c4ccc3fd-b13d-49bf-a705-f618d8f4424a++668" : "project\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "LLMicrophone",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "LLMicrophone\/LLMicrophone.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/svn.baidu.com\/myspace",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "c4ccc3fd-b13d-49bf-a705-f618d8f4424a++668"
+    }
+  ]
+}
