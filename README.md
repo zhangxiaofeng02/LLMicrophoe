@@ -11,4 +11,4 @@
 # 具体详见Demo<br>
 
 # 演示动画
-  
+  <img src="https://github.com/zhangxiaofeng02/LLMicrophoe/blob/master/LLMicrophone/%E6%BC%94%E7%A4%BA.gif"/>
